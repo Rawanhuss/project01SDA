@@ -1,0 +1,16 @@
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\bin\Debug\net5.0\SDA_Project01.exe
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\bin\Debug\net5.0\SDA_Project01.deps.json
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\bin\Debug\net5.0\SDA_Project01.runtimeconfig.json
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\bin\Debug\net5.0\SDA_Project01.runtimeconfig.dev.json
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\bin\Debug\net5.0\SDA_Project01.dll
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\bin\Debug\net5.0\ref\SDA_Project01.dll
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\bin\Debug\net5.0\SDA_Project01.pdb
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\obj\Debug\net5.0\SDA_Project01.csproj.AssemblyReference.cache
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\obj\Debug\net5.0\SDA_Project01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\obj\Debug\net5.0\SDA_Project01.AssemblyInfoInputs.cache
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\obj\Debug\net5.0\SDA_Project01.AssemblyInfo.cs
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\obj\Debug\net5.0\SDA_Project01.csproj.CoreCompileInputs.cache
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\obj\Debug\net5.0\SDA_Project01.dll
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\obj\Debug\net5.0\ref\SDA_Project01.dll
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\obj\Debug\net5.0\SDA_Project01.pdb
+C:\Users\HOME PC\Desktop\c#\SDA_Project01\SDA_Project01\obj\Debug\net5.0\SDA_Project01.genruntimeconfig.cache
